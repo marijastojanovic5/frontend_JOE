@@ -12,6 +12,7 @@ To start app on your local server:</br>
 
 run <b>npm start</b> (open up http://localhost:3000 in your browser)</br>
 ***
+username: John, password: 123
 
 <h4>Frameworks and Libraries used</h4>
 
