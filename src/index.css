@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #ccbfa9;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#cup {
+  font-style: italic;
+  color: blanchedalmond;
+  font-size: x-large;
+
+}
+#title {
+  background-image: url(https://thumbs.dreamstime.com/b/frame-coffee-beans-cup-isolated-white-background-top-view-165565546.jpg);
+}
+#letters {
+  font-style: italic;
+  border-color: rgb(15, 9, 63);
+  font-stretch: extra-condensed;
+  color: rgb(75, 23, 10);
+  /* display: flex */
+
+  
+}
+#letter {
+  font-style: italic;
+  font-weight: 700;
+
+  
+}
+
+#letter2 {
+  font-style: bold;
+  font-weight: 700;
+  color: rgb(75, 23, 10);
+  display: inline-grid
+  
+}
+
+.ui.four.column.grid {
+  padding-left: 8rem
+}
+
+
+.ui.basic.label {
+  background: none #ccbfa9;
+  border: 1px solid rgba(34,36,38,.15);
+  color: rgba(0,0,0,.87);
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.ui.segment {
+  background-color: blanchedalmond;
+}
