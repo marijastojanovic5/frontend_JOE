@@ -9,6 +9,7 @@ import SortControl from "./components/SortControl"
 import {Route, Switch, Redirect} from 'react-router-dom'
 import './App.css';
 
+
 class App extends Component {
   state = {
     coffeeShops: [],
